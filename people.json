@@ -1,0 +1,16 @@
+{
+	"people":[
+		{
+			"name":"margai",
+			"age":21
+		},
+		{
+			"name":"wangara",
+			"age":25
+		},
+		{
+			"name":"dreamer",
+			"age":21
+		}
+	]
+}
